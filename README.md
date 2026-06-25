@@ -1,4 +1,4 @@
-# 🎓 Système de Gestion des Stages et Stagiaires (M.T.C.A)
+<img width="920" height="415" alt="S9" src="https://github.com/user-attachments/assets/5e7ae986-ebf9-4afb-b9b0-6f65aa81b539" /># 🎓 Système de Gestion des Stages et des Stagiaires (M.T.C.A)
 
 ## 📌 Présentation
 Cette application est une solution complète de gestion du cycle de vie des stagiaires, spécifiquement conçue pour le **Ministère du Tourisme, de la Culture et des Arts (Bénin)**. Elle automatise le processus depuis la postulation publique jusqu'à la fin du stage, en passant par la validation administrative et le suivi opérationnel.
@@ -71,4 +71,20 @@ Le gestionnaire dispose d'un tableau de bord complet pour piloter l'activité :
 ---
 © 2026 ** Réalisé par Mrs AVOCE Ulrich (A.U.I.D.) et SEGBEDJI Oswald .......en mai 2026 pour le Ministère du Tourisme,de la Culture et des Arts - Bénin**
  Nous disposons tout droits réservés sur cette application. 
- 
+
+
+ <img width="877" height="436" alt="S1" src="https://github.com/user-attachments/assets/921f064c-639e-4b0a-bc21-08e36142dd24" />
+<img width="926" height="425" alt="S2" src="https://github.com/user-attachments/assets/5f65351a-af6d-4040-acf3-521de5ddb3b3" />
+<img width="927" height="430" alt="S3" src="https://github.com/user-attachments/assets/33fe2f18-28de-4390-af11-e3683525a924" />
+<img width="933" height="428" alt="S4" src="https://github.com/user-attachments/assets/4013c150-a7dd-4070-ba0f-fbc1bfb05452" />
+<img width="928" height="427" alt="S5" src="https://github.com/user-attachments/assets/f4592317-1341-4d13-82f7-794637095a60" />
+<img width="926" height="424" alt="S6" src="https://github.com/user-attachments/assets/66352c30-3a93-44e9-ba90-9d7a3e6d22ca" />
+<img width="926" height="403" alt="S7" src="https://github.com/user-attachments/assets/b8bd082b-6c91-4f6c-b18d-f15440728686" />
+<img width="930" height="425" alt="S8" src="https://github.com/user-attachments/assets/f68728c3-337b-45b3-8f03-5eba95f624cc" />
+<img width="920" height="415" alt="S9" src="https://github.com/user-attachments/assets/95d06ff8-2086-4afa-9f39-37a0d08f7476" />
+<img width="917" height="286" alt="S10" src="https://github.com/user-attachments/assets/d3267ddb-003a-431c-b115-e2e23d651480" />
+<img width="910" height="419" alt="S11" src="https://github.com/user-attachments/assets/15e5a0c5-75cf-4eeb-9f5d-af3553113a69" />
+<img width="917" height="410" alt="S12" src="https://github.com/user-attachments/assets/d18d6f61-eca0-465b-a974-a195fec89e1a" />
+
+
+
